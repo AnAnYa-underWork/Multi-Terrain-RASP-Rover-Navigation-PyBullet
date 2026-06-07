@@ -125,7 +125,7 @@ The simulation demonstrates autonomous navigation of a 4-wheel rover across mult
 
 ### Simulation Demo
 
-![Demo](demo/MR Simulation.gif)
+[Demo](demo/MR Simulation.gif)
 
 
 ---
