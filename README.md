@@ -110,7 +110,23 @@ The environment contains:
 
 ## Demo
 
-![Demo](demo/demo.gif)
+The simulation demonstrates autonomous navigation of a 4-wheel rover across multiple terrain types using A* path planning.
+
+### Demonstrated Features
+
+- Generation of an optimal path using A* search
+- Obstacle avoidance in a grid-based environment
+- Terrain-aware navigation across:
+  - Smooth terrain
+  - Rough terrain
+  - Sloped terrain
+- Adaptive traversal speed based on terrain conditions
+- Goal-directed autonomous navigation
+
+### Simulation Demo
+
+![Demo](demo/MR Simulation.gif)
+
 
 ---
 
