@@ -189,5 +189,5 @@ python src/main.py
 
 Ananya
 
-Mechanical Engineering | Robotics | Autonomous Systems
+Robotics and AI
 
